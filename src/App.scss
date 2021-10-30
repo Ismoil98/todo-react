@@ -1,0 +1,20 @@
+@import './Assets/scss/colors.scss';
+
+.todo-header {
+  color: aqua;
+}
+
+.input-todo {
+  width: 400px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-top: 30px;
+  background-color:lightskyblue;
+  border-radius: 15px;
+  padding: 30px;
+}
+
